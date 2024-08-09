@@ -6,7 +6,7 @@ This project is a full-stack application using Vue.js for the front-end, Node.js
 
 ## Technologies Used
 
-- **Front-end**: Vue.js
+- **Front-end**: Vue.js with Tailwind CSS
 - **Back-end**: Node.js with Express
 - **Database**: MongoDB
 - **API Client**: Axios
