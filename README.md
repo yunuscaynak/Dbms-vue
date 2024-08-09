@@ -10,7 +10,6 @@ This project is a full-stack application using Vue.js for the front-end, Node.js
 - **Back-end**: Node.js with Express
 - **Database**: MongoDB
 - **API Client**: Axios
-- **State Management**: Vuex
 - **Authentication**: JWT (JSON Web Tokens)
 - **Testing**: Jest (if applicable)
 
